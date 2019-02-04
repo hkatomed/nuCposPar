@@ -1,2 +1,2 @@
-Here, reference genomes must be stored.
+Here, reference genomes must be stored before running scripts.
 See README for details.
