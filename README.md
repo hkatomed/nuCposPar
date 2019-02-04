@@ -4,13 +4,14 @@ Codes for nuCpos parameter construction
 This is a set of codes for generation of parameters used in nuCpos.
 
 
-## Software requirements ############################################
-We used an Apple Mac Pro (OS 10.9.4) in which R (3.3.3) was installed. 
+## Hardware and Software requirements ###############################
+We used an Apple Mac Pro (OS 10.9.4) in which R (3.3.3) had been installed. 
 To run the R scripts, R packages listed below must be loadable.
 
 1. Biostrings (>=2.42.1)
 2. TTR (>=0.23.4)
 
+Note: final size of the nuCposPar directory will be about 2.2 GB.
 
 ## Required files ###################################################
 Before running scripts, you need to obtain the files listed below and store them in appropriate directories.
