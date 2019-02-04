@@ -1,0 +1,5 @@
+setwd("nuCpos_parameters")
+load(file = "sysdata_Mm.rda")
+load(file = "sysdata_ScSp.rda")
+load(file = "sysdata_local.rda")
+save(list = ls(), file = "sysdata.rda")
