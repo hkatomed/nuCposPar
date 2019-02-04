@@ -1,0 +1,3 @@
+In this directory, nuCpos parameters are saved.
+The final file will be sysdata.rda.
+

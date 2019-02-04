@@ -1,0 +1,2 @@
+Here, reference genomes must be stored.
+See README for details.
