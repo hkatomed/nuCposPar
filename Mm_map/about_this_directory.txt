@@ -1,2 +1,2 @@
-Here, mouse chemical unique map must be stored.
+Here, mouse chemical unique map must be stored before running scripts.
 See README for details.
