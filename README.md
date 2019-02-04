@@ -15,7 +15,7 @@ Note: final size of the nuCposPar directory will be about 2.2 GB.
 
 
 ## Required files ###################################################
-Before running scripts, you need to obtain the files listed below and store them in appropriate directories.
+Before running scripts, you need to obtain the files (1-4) listed below and store them in appropriate directories.
 
 ## Files that should be stored in "genome" 
 1. Saccharomyces_cerevisiae.R64-1-1.dna.toplevel.fa.gz
