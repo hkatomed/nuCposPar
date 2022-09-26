@@ -1,6 +1,6 @@
 setwd("genome")
 library("Biostrings")
-sc.genome <- readDNAStringSet("S288C_reference_sequence_R64-2-1_20150113.fsa")
+sc.genome <- readDNAStringSet("S288C_reference_sequence_R64-1-1_20110203.fsa")	# bug fixed
 sc.genome <- sc.genome[1:16]
 names(sc.genome) <- c("chr1", "chr2", "chr3", "chr4", "chr5", "chr6", "chr7", 
 	"chr8", "chr9", "chr10", "chr11", "chr12", "chr13", "chr14", "chr15", "chr16")
