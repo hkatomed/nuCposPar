@@ -17,9 +17,9 @@ Note: final size of the nuCposPar directory will be about 2.2 GB.
 ## Required files ###################################################
 Before running scripts, you need to obtain the files (1-4) listed below and store them in appropriate directories.
 
-## Files that should be stored in "genome" 
-1. Saccharomyces_cerevisiae.R64-1-1.dna.toplevel.fa.gz
-    ftp://ftp.ensembl.org/pub/release-84/fasta/saccharomyces_cerevisiae/dna/
+## Files that should be stored in "genome" (bug fixed for the yeast genome)
+1. S288C_reference_sequence_R64-1-1_20110203.fsa
+    http://sgd-archive.yeastgenome.org/sequence/S288C_reference/genome_releases/S288C_reference_genome_R64-1-1_20110203.tgz
 2. Schizosaccharomyces_pombe.ASM294v2.dna.toplevel.fa.gz
     ftp://ftp.ensemblgenomes.org/pub/fungi/release-42/fasta/schizosaccharomyces_pombe/dna/
 3. Mus_musculus.NCBIM37.67.dna_rm.toplevel.fa.gz
